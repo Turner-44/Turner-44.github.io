@@ -18,9 +18,9 @@
 - Link
 
 ## EDUCATION: 
-University: Victoria University of Wellington
-Degree: Bachelor’s Degree 
-Major: Information Management and Buisness Management
+University: Victoria University of Wellington  
+Degree: Bachelor’s Degree   
+Major: Information Management and Buisness Management  
 
 ## WORK HISTORY: 
 - Title: Career Break / Freelancer
