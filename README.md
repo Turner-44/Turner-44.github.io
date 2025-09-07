@@ -23,18 +23,18 @@ Degree: Bachelor’s Degree
 Major: Information Management and Buisness Management  
 
 ## WORK HISTORY: 
-### Career Break / Freelancer  
+#### Career Break / Freelancer  
 Duration: MAY 2024 - PRESENT  
 
-### QA Architect  
+#### QA Architect  
 Employer: PartsTrader Markets Limited  
 Duration: FEB 2024 - MAY 2024  
 
-### Sotware Tester  
+#### Sotware Tester  
 Employer: PartsTrader Markets Limited  
 Duration: JUN 2021 - FEB 2024  
 
-### Test Analyst  
+#### Test Analyst  
 Employer: Cigna New Zealand  
 Duration: APR 2017 - JUN 2021  
 
