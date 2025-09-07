@@ -25,19 +25,22 @@ Major: Information Management and Buisness Management<br/>
 ## WORK HISTORY: 
 #### Career Break / Freelancer<br/>
 Duration: MAY 2024 - PRESENT
+<br/>
 
 #### QA Architect
 Employer: PartsTrader Markets Limited<br/>
 Duration: FEB 2024 - MAY 2024
+<br/>
 
 #### Sotware Tester
 Employer: PartsTrader Markets Limited<br/>
 Duration: JUN 2021 - FEB 2024
+<br/>
 
 #### Test Analyst
 Employer: Cigna New Zealand<br/>
 Duration: APR 2017 - JUN 2021
-
+<br/>
 
 ## ADDITIONAL LINKS:
 [LinkedIn](https://www.linkedin.com/in/matthewwilliamturner)  
