@@ -11,18 +11,18 @@ Degree: Bachelor’s Degree<br/>
 Major: Information Management and Buisness Management<br/>
 
 ## WORK HISTORY: 
-#### Career Break / Freelancer<br/>
+#### [Career Break / Freelancer](https://www.linkedin.com/in/matthewwilliamturner/details/experience/#:~:text=Career%20Break)
 - Duration: MAY 2024 - PRESENT
 
-#### QA Architect
+#### [QA Architect](https://www.linkedin.com/in/matthewwilliamturner/details/experience/#:~:text=QA%20Architect)
 - Employer: PartsTrader Markets Limited<br/>
 - Duration: FEB 2024 - MAY 2024 
 
-#### Sotware Tester
+#### [Sotware Tester](https://www.linkedin.com/in/matthewwilliamturner/details/experience/#:~:text=Software%20Tester)
 - Employer: PartsTrader Markets Limited<br/>
 - Duration: JUN 2021 - FEB 2024
 
-#### Test Analyst
+#### [Test Analyst](https://www.linkedin.com/in/matthewwilliamturner/details/experience/#:~:text=Test%20Analyst)
 - Employer: Cigna New Zealand<br/>
 - Duration: APR 2017 - JUN 2021
 
