@@ -18,25 +18,25 @@
 - Link
 
 ## EDUCATION: 
-University: Victoria University of Wellington  
-Degree: Bachelor’s Degree   
-Major: Information Management and Buisness Management  
+University: Victoria University of Wellington<br/>
+Degree: Bachelor’s Degree<br/>
+Major: Information Management and Buisness Management<br/>
 
 ## WORK HISTORY: 
-#### Career Break / Freelancer  
-  Duration: MAY 2024 - PRESENT  
+#### Career Break / Freelancer<br/>
+Duration: MAY 2024 - PRESENT
 
-#### QA Architect  
-  Employer: PartsTrader Markets Limited  
-  Duration: FEB 2024 - MAY 2024  
+#### QA Architect
+Employer: PartsTrader Markets Limited<br/>
+Duration: FEB 2024 - MAY 2024
 
-#### Sotware Tester  
-  Employer: PartsTrader Markets Limited  
-  Duration: JUN 2021 - FEB 2024  
+#### Sotware Tester
+Employer: PartsTrader Markets Limited<br/>
+Duration: JUN 2021 - FEB 2024
 
-#### Test Analyst  
-  Employer: Cigna New Zealand  
-  Duration: APR 2017 - JUN 2021  
+#### Test Analyst
+Employer: Cigna New Zealand<br/>
+Duration: APR 2017 - JUN 2021
 
 
 ## ADDITIONAL LINKS:
