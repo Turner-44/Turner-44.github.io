@@ -2,8 +2,7 @@
 
 ## PROJECTS
 
-### PROJECT 1: 
-- [basic-playwright-example](https://github.com/Turner-44/basic-playwright-example)
+### [basic-playwright-example](https://github.com/Turner-44/basic-playwright-example)
 - Summary: A simple repository to display my ability to build scalable playwright test frameworks.
 
 ### PROJECT 2: 
