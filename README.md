@@ -22,7 +22,7 @@
 ## WORK HISTORY: 
 
 ## ADDITIONAL LINKS:
-
+LinkedIn: https://www.linkedin.com/in/matthewwilliamturner
 
 ## PERSONAL BLURB:
 
