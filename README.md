@@ -3,7 +3,7 @@
 ## PROJECTS
 
 ### [basic-playwright-example](https://github.com/Turner-44/basic-playwright-example)  
-Summary: A simple repository to display my ability to build scalable playwright test frameworks.
+Summary: A simple repository to display my ability to build scalable playwright test frameworks. Currently a WIP.
 
 ## EDUCATION: 
 University: Victoria University of Wellington<br/>
